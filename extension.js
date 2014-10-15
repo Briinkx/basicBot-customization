@@ -94,7 +94,7 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: [],
+        intervalMessages: ["Have any suggestions, questions, or problems? Email them to [TheShizDJ@gmail.com]"],
         messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
