@@ -88,7 +88,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: "https://docs.google.com/spreadsheets/d/1dRfx6RAEQHyrWg5_faeDOa-zuKsmrBQ_VK-9AB7X3G8/edit?usp=sharing",
+        opLink: "https://docs.google.com/spreadsheets/d/1dRfx6RAEQHyrWg5_faeDOa-zuKsmrBQ_VK-9AB7X3G8/",
         rulesLink: null,
         themeLink: null,
         fbLink: null,
